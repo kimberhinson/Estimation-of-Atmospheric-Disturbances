@@ -23,6 +23,7 @@ Wind Tunnel Test-bed state-space model: [LARGE.mat](https://github.com/kimberhin
      ![Asv_sim](https://github.com/user-attachments/assets/6eb3d2ec-d4cb-4865-939a-48dbe7fccd18)
 3. Evaluate performance of ALS tuned Kalman filters:
    - [simulated_setup_post.m](https://github.com/kimberhinson/Estimation-of-Atmospheric-Disturbances/blob/main/simulated_setup_post.m)
+   ![KF_sim_compare](https://github.com/user-attachments/assets/9cd44f93-f79d-4bd3-837c-a524ad8fd691)
    - K-L Divergence metric, [KF_optimality_LTI.m](https://github.com/kimberhinson/Estimation-of-Atmospheric-Disturbances/blob/main/KF_optimality_LTI.m)
    - K-L Divergence plot, [E_opt.m](https://github.com/kimberhinson/Estimation-of-Atmospheric-Disturbances/blob/main/E_opt_plot.m)
      ![Eopt_sim_compare](https://github.com/user-attachments/assets/539ece68-90bb-4458-963e-ff4937a76498)
